@@ -1,3 +1,2 @@
 # eco_aware
-
-A new Flutter project.
+Project for making quick access to climate change information easy, for Android.
